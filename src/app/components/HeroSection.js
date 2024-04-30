@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I'm a React.js developer with a captivating portfolio of innovative projects and expertise in front-end development.
+          I &apos; a React.js developer with a captivating portfolio of innovative projects and expertise in front-end development.
           </p>
           <div>
             <Link
