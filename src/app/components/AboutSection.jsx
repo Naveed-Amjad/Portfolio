@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>Node.js</li>
         <li>Express</li>
         <li>React</li>
+        <li>Next</li>
       </ul>
     ),
   },
@@ -33,8 +34,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>6 Months Certification in Mern Stack at Arfa Trainings</li>
-        <li>Working as Frontend Developer at MTechnologies</li>
+        <li>9 Months Certification in Mern Stack at Arfa Trainings</li>
+        <li>1.3 years of experience as React Frontend Developer at MTechnologies</li>
       </ul>
     ),
   },
